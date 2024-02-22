@@ -1,5 +1,5 @@
 # TextUtils
-
+ 
 TextUtils is a simple React-based website that allows users to perform various text manipulations on their input text.
 
 ## Basic Functionality
